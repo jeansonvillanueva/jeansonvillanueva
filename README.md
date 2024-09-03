@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jeansonvillanueva
 - 👀 I’m interested in music and arts
-- 🌱 I’m currently learning react
-- 📫 How to reach me at my Facebook account
+- 🌱 I’m currently learning nothing
+- 📫 Reach me at my Facebook account
 - 😄 Pronouns: HeHim
 - ⚡ Fun fact: I love you
 
